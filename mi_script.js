@@ -1,3 +1,4 @@
+/*
 let visitas = localStorage.getItem('Contador_visitas');
 
 if (!visitas) {
@@ -8,3 +9,4 @@ visitas++;
 localStorage.setItem('Contador_visitas',visitas);
 
 document.getElementById('Contador').textContent=visitas;
+*/
